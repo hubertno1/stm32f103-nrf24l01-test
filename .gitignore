@@ -1,0 +1,19 @@
+# Vscode
+.vscode/
+
+# Keil generated output files
+JLinkLog.txt
+JLinkSettings.ini
+Project.uvguix.Admin
+Project.uvguix.Libiao
+Project.uvoptx
+Project.uvprojx
+
+# Others
+keilkill.bat
+DebugConfig/
+Listings/
+Objects/
+
+
+
